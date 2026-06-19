@@ -20,7 +20,7 @@ Extracting actionable insights from hundreds of thousands of employee reviews re
 
 ---
 
-## 🛠 Tech Stack & Dependencies
+##  Tech Stack & Dependencies
 * **Language:** Python 3.10+
 * **Data Processing:** Pandas, NumPy
 * **Machine Learning & NLP Framework:** Scikit-Learn
