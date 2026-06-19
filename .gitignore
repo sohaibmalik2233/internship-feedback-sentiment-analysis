@@ -1,0 +1,14 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+
+# Ignore large datasets
+data/glassdoor_reviews.csv
+data/*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore saved models (if you export them later)
+*.pkl
