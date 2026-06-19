@@ -2,7 +2,7 @@
 
 An end-to-end Natural Language Processing (NLP) machine learning pipeline built to automatically classify unstructured workplace and internship feedback into binary sentiment categories. This project handles raw text parsing, transforms linguistic parameters into numerical vectors, and utilizes an optimized classification model to achieve competitive accuracy on unseen validation text.
 
-## 🏆 Performance Milestone
+##  Performance Milestone
 * **Algorithm:** Logistic Regression (via TF-IDF Vectorization)
 * **Testing Accuracy:** 90.90%
 * **Precision / Recall:** 0.91 / 0.91
@@ -10,7 +10,7 @@ An end-to-end Natural Language Processing (NLP) machine learning pipeline built 
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 Extracting actionable insights from hundreds of thousands of employee reviews requires capturing complex linguistic patterns across unstructured text. This repository outlines a reproducible workflow starting from raw, unverified review matrices to a fully functional predictive classification pipeline.
 
 ### Key Pipeline Stages:
@@ -28,7 +28,7 @@ Extracting actionable insights from hundreds of thousands of employee reviews re
 
 ---
 
-## 💻 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
     ```bash
